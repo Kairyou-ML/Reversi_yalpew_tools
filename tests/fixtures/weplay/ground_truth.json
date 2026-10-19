@@ -1,0 +1,18 @@
+{
+  "03_playing_initial.png": {
+    "state": "PLAYING_MY_TURN",
+    "board": "......../......../......../...BW.../...WB.../......../......../........",
+    "highlights": ["e3", "f4", "c5", "d6"]
+  },
+  "04_playing_midgame.png": {
+    "state": "PLAYING_MY_TURN",
+    "board": "B.BBB.../.B.B..../..BWWW../...BW.../...WB.../......../......../........",
+    "highlights": ["e2", "f2", "g3", "f4", "c5", "d6"]
+  },
+  "05_result.png": {
+    "state": "RESULT",
+    "board": "BBBBBBBB/BBBWWBBB/BBWBWBBB/BBWBBBWB/BBWBBBWB/BBBWBBBB/BBBBBBBB/BBBBBBBB",
+    "black_count": 55,
+    "white_count": 9
+  }
+}
